@@ -101,13 +101,5 @@ public class Main {
                 System.out.println("----admin log-out----");
             }
         }
-        /*
-        guests.add(new people("ben", 16));
-        guests.add(new people("max", 14));
-
-        for(people p : guests){
-            System.out.println(p);
-        }
-        */
     }
 }
